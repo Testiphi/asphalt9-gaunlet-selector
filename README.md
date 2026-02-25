@@ -33,7 +33,7 @@
 
 ### 在线体验
 项目已部署在 GitHub Pages，您可以直接访问：  
-👉 [https://testiphi.github.io/asphalt9-gaunlet-selector/](https://testiphi.github.io/asphalt9-gaunlet-selector/)
+👉 [https://testiphi.github.io/asphalt9-gauntlet-selector/](https://testiphi.github.io/asphalt9-gauntlet-selector/)
 
 
 ### 本地运行
